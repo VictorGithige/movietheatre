@@ -1,0 +1,38 @@
+
+.films-list {
+    float: left;
+    width: 30%;
+  }
+  
+  .films-list h2 {
+    margin-bottom: 0;
+  }
+  
+  .films-list ul {
+    list-style-type: none;
+    margin-top: 0;
+    padding: 0;
+  }
+  
+  .films-list li {
+    cursor: pointer;
+  }
+  
+  .film-item {
+    margin-bottom: 10px;
+  }
+  
+  .movie-details {
+    float: right;
+    width: 70%;
+    text-align: center;
+  }
+  
+  .movie-details .poster {
+    margin-bottom: 10px;
+  }
+  
+  .movie-details button {
+    margin-top: 10px;
+  }
+  
